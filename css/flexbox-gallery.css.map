@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,gBADY,CACZ,SAAS,CAAA;EACL,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CAK1B;;AARL,AAIQ,gBAJQ,CACZ,SAAS,CAGL,YAAY,CAAA;EACR,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,EAAE;CACb",
+    "sources": [
+        "flexbox-gallery.scss"
+    ],
+    "names": [],
+    "file": "flexbox-gallery.css"
+}

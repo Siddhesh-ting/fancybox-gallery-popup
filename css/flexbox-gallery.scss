@@ -1,0 +1,10 @@
+#flexbox-gallery{
+    .flex-row{
+        display: flex;
+        justify-content: center;
+        .gallery-box{
+            width: 33%;
+            margin: 1%;
+        }
+    }
+}
